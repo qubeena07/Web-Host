@@ -1,3 +1,3 @@
 # Web-Host
 Flutter Web app host using github
-<img height=300px width=400px src="./assets/assets/ss.png">
+<img height=350px width=500px src="./assets/assets/ss.png">
